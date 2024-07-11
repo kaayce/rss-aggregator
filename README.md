@@ -1,17 +1,22 @@
 # RSS Aggregator API
 
-This project is a fully functional RSS aggregator built using Go.
+This project is a fully functional RSS aggregator built using Go and Chi Router.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+- [RSS Aggregator API](#rss-aggregator-api)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+  - [Usage](#usage)
+    - [Running the Application](#running-the-application)
+    - [API Endpoints](#api-endpoints)
+  - [Configuration](#configuration)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
